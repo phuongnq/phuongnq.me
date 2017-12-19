@@ -44,7 +44,7 @@ brew unlink php71
 Then install *php72*:
 
 ```
-brew install php71
+brew install php72
 ```
 
 After everything is installed, check the result:
