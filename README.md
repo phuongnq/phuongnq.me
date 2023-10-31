@@ -1,4 +1,3 @@
-Source code for www.phuongnq.me
 
 # Tech stack
 
